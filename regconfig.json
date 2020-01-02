@@ -15,6 +15,9 @@
     },
     "reg-publish-s3-plugin": {
       "bucketName": "${BUCKET_NAME}"
+    },
+    "reg-notify-github-plugin": {
+      "clientId": "${CLIENT_ID}"
     }
   }
 }
